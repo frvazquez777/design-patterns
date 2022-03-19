@@ -11,7 +11,7 @@ public class ModelVisa implements ICard {
 
 	@Override
 	public String getCardNumber() {
-		return "4781-3947-9919-2145";
+		return Constant.NUMBER_CARD_VISA;
 	}
 
 }

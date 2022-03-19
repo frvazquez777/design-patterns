@@ -2,14 +2,14 @@
 
 Project of design patterns
 
-- Compile
+-Compile
 
-*	mvn clean install
+>	mvn clean install
 
-- Test
+-Test
 
-*	mvn test
+>	mvn test
 
 -Execute 
 
-* mvn spring-boot:run
+> mvn spring-boot:run

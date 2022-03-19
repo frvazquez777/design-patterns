@@ -12,5 +12,7 @@ public class Constant {
 	public static final String VISA ="VISA";
 	public static final String MASTERCARD ="MASTERCARD";
 
+	public static final String NUMBER_CARD_VISA = "4781-3947-9919-2145";
+	public static final String NUMBER_CARD_MASTERCARD = "5481-8698-2996-7400";
 	
 }

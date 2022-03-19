@@ -11,7 +11,7 @@ public class ModelMastercard implements ICard {
 
 	@Override
 	public String getCardNumber() {
-		return "5481-8698-2996-7400";
+		return Constant.NUMBER_CARD_MASTERCARD;
 	}
 
 }

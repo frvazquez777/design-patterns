@@ -2,9 +2,13 @@
 
 Project of design patterns
 
--Compile
+- Compile
 
 *	mvn clean install
+
+- Test
+
+*	mvn test
 
 -Execute 
 

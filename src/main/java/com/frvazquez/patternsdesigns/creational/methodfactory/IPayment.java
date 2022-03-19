@@ -1,6 +1,6 @@
 package com.frvazquez.patternsdesigns.creational.methodfactory;
 
-public interface Payment {
+public interface IPayment {
     
     public String doPayment();
     

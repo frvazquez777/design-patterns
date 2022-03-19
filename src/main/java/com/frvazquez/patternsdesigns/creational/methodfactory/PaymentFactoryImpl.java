@@ -1,8 +1,8 @@
 package com.frvazquez.patternsdesigns.creational.methodfactory;
 
-public class PaymentFactory {
+public class PaymentFactoryImpl {
     
-    public static Payment buildPayment(TypePayment typePayment) {
+    public static IPayment buildPayment(ETypePayment typePayment) {
         switch(typePayment) {
             case GOOGLE_PAY:
                 return new GooglePay();

@@ -1,6 +1,6 @@
 package com.frvazquez.patternsdesigns.creational.methodfactory;
 
-public enum TypePayment {
+public enum ETypePayment {
    
     CARD, 
     GOOGLE_PAY,

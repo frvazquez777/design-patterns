@@ -9,9 +9,15 @@ public class Constant {
 
 	public static final String DEBIT ="PAGANDO A DEBIT...";
 	public static final String CREDIT ="PAGANDO A CREDIT...";
+
+	public static final String AMEX ="AMEX";
 	public static final String VISA ="VISA";
 	public static final String MASTERCARD ="MASTERCARD";
 
+	public static final String MSG_AMEX ="Esta es una tarjeta AMEX";
+	public static final String MSG_VISA ="Esta es una tarjeta VISA";
+
+	public static final String NUMBER_CARD_AMEX = "371120328001786";
 	public static final String NUMBER_CARD_VISA = "4781-3947-9919-2145";
 	public static final String NUMBER_CARD_MASTERCARD = "5481-8698-2996-7400";
 	

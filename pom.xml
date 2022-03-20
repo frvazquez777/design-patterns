@@ -8,14 +8,24 @@
 		<version>2.6.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+
+	<developers>
+		<developer>
+			<name> Fredy Vazquez</name>
+			<organization>frvazquez</organization>
+		</developer>
+	</developers>
+
 	<groupId>com.frvazquez</groupId>
 	<artifactId>patternsdesigns</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>patternsdesigns</name>
 	<description>Demo project for Spring Boot</description>
+
 	<properties>
 		<java.version>11</java.version>
 	</properties>
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

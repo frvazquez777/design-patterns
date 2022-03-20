@@ -9,7 +9,3 @@ Project of design patterns
 -Test
 
 >	mvn test
-
--Execute 
-
-> mvn spring-boot:run
